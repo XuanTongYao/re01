@@ -8,6 +8,8 @@
 
 [members](./members) 目录下为所有成员提交的个人信息，一人一个 json 文件。
 
+![XT_LB读写时序](https://svg.wavedrom.com/github/XuanTongYao/re01/main/xt_lb.json5)
+
 ## 课程目录
 
 [点击此处查看知识图谱](https://metaisland.feishu.cn/mindnotes/bmncnVm87LbPlQF0jigDuSegubd#mindmap)
